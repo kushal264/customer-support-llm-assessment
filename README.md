@@ -1,5 +1,3 @@
-# customer-support-llm-assessment
-LLM-based customer support message extraction using Python and Google Gemini API.
 # Customer Support Message Extraction using LLM
 
 This project demonstrates how an LLM can extract structured information from a customer support message.
